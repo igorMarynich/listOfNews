@@ -1,0 +1,37 @@
+.fieldOfUser {
+    margin: 15px;
+}
+
+.userInput {
+    margin-left: 5px;
+    padding: 2px;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 20%;
+   
+}
+
+.displayForm {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+}
+
+.cardUser {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: 1px solid black;
+    width: 300px;
+    height: 300px;
+}
+
+.submitButton {
+    position: relative;
+    right: 15px;
+    top: 10px;
+}

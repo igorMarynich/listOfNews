@@ -1,0 +1,17 @@
+.containerNewItem {
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+.partOfNews {
+    display: flex;
+}
+
+.nameOfOptions {
+    font-style: italic;
+    width: 20%;
+}
+
+.contentOfOptions {
+    width: 100%;
+}
